@@ -99,31 +99,6 @@ I'm a passionate **AI/ML enthusiast** and **Full Stack Developer** who loves bui
 
 ---
 
-## 🎯 Current Focus Areas
-
-```python
-class DipanGiri:
-    def __init__(self):
-        self.name = "Dipan Giri"
-        self.role = "AI/ML Developer & Full Stack Engineer"
-        self.language_spoken = ["Python", "JavaScript", "Bengali", "English"]
-        self.current_focus = [
-            "Deep Learning & Computer Vision",
-            "Voice Automation Systems",
-            "Full Stack Web Development",
-            "Open Source Contributions"
-        ]
-        self.hobbies = ["Coding", "AI Research", "Problem Solving", "Learning New Tech"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🚀")
-
-me = DipanGiri()
-me.say_hi()
-```
-
----
-
 ## 🌟 What I'm Working On
 
 - 🔬 **Advanced AI Models**: Exploring transformer architectures and attention mechanisms

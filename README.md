@@ -124,13 +124,8 @@ I'm always excited to work on innovative projects and connect with fellow develo
 ---
 
 <div align="center">
-  
-### 📈 Contribution Graph
-[![Dipan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dipan2004&theme=tokyo-night)](https://github.com/Dipan2004)
 
 ---
-
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 **⭐ If you find my projects interesting, don't forget to star them! ⭐**
 

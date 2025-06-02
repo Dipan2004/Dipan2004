@@ -1,13 +1,24 @@
 # Hi there, I'm Dipan Giri! 👋
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Voice+Automation+Specialist;Always+Learning+New+Technologies!)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipan-giri-b549b62a5/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipan2004)
-[![Profile Views](https://komarev.com/ghpvc/?username=Dipan2004&color=brightgreen&style=for-the-badge)](https://github.com/Dipan2004)
-
+<!-- Custom Banner with Gradient Background -->
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=DIPAN%20GIRI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Building%20the%20Future%20with%20AI%20%26%20Code&descAlignY=60&descSize=18"/>
+<!-- Epic Typing Animation with Multiple Colors -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD&multiline=true&width=600&height=100&lines=🤖+AI+%26+Machine+Learning+Wizard;💻+Full+Stack+Innovation+Engineer;🎙️+Voice+Automation+Architect;🚀+Building+Tomorrow's+Technology" alt="Typing SVG" />
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Social Badges with Glow Effect -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/dipan-giri-b549b62a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&logoWidth=20" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Dipan2004">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000&color=333&logoWidth=20" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Dipan2004&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</p>
+<!-- Matrix-style Terminal Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=80&lines=>>> import dipan_giri as dg;>>> dg.initialize_awesome_mode();>>> print('Ready to revolutionize tech! 🚀');>>> Loading neural networks... ██████████ 100%" alt="Terminal Animation"/>
 </div>
 
 ---

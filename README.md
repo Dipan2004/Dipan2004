@@ -9,7 +9,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Dipan2004&color=brightgreen&style=for-the-badge)](https://github.com/Dipan2004)
 
 </div>
----
 
 ## 🚀 About Me
 

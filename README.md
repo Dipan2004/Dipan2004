@@ -3,7 +3,6 @@
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=3000&pause=1000&color=2F3A3E&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Full+Stack+Developer;Building+Intelligent+Systems;Machine+Learning+Enthusiast)
-[![Profile Views](https://komarev.com/ghpvc/?username=Dipan2004&color=brightgreen&style=for-the-badge)](https://github.com/Dipan2004)
 </div>
 
 ---

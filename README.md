@@ -1,14 +1,14 @@
 # Dipan Giri
 
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=500&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=3000&pause=1000&color=2F3A3E&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Full+Stack+Developer;Building+Intelligent+Systems;Machine+Learning+Enthusiast)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 ## About
-
 I'm an AI/ML engineer focused on building intelligent systems and automation tools. My work spans from deep learning models for computer vision to voice-controlled desktop applications, with a particular interest in practical AI implementations.
 
 Currently exploring advanced neural architectures and their applications in real-world problem solving.
@@ -18,6 +18,7 @@ Currently exploring advanced neural architectures and their applications in real
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -29,11 +30,13 @@ Currently exploring advanced neural architectures and their applications in real
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ### Web Development & Tools
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E5FF?style=flat&logo=postgresql&logoColor=white)
 
 ## Selected Projects
 
@@ -50,11 +53,12 @@ Deep learning system for handwritten mathematical expression recognition. Featur
 ## GitHub Analytics
 
 <div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dipan2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipan2004&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipan2004&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipan2004&layout=compact&theme=default&hide_border=true)
-
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipan2004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## Contact
@@ -63,5 +67,9 @@ Deep learning system for handwritten mathematical expression recognition. Featur
 **GitHub:** [Dipan2004](https://github.com/Dipan2004)
 
 ---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Dipan2004&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
 
 *Open to collaborations on AI/ML projects and innovative technical solutions.*

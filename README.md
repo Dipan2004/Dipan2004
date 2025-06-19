@@ -51,14 +51,16 @@ Deep learning system for handwritten mathematical expression recognition. Featur
 
 ## GitHub Analytics
 
+<details>
+<summary>▶ github stats</summary>
+<br>
+
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dipan2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipan2004&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipan2004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+</details>
 
 ## Contact
 

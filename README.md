@@ -1,7 +1,6 @@
 # Dipan Giri
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=500&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>

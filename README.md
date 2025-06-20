@@ -70,7 +70,5 @@ Deep learning system for handwritten mathematical expression recognition. Featur
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Dipan2004&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
 
 *Open to collaborations on AI/ML projects and innovative technical solutions.*

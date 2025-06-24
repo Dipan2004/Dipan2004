@@ -2,11 +2,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 ## About
 I'm an AI/ML engineer focused on building intelligent systems and automation tools. My work spans from deep learning models for computer vision to voice-controlled desktop applications, with a particular interest in practical AI implementations.
 

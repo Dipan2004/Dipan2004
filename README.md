@@ -67,3 +67,5 @@ Deep learning system for handwritten mathematical expression recognition. Featur
 <div align="center">
 
 *Open to collaborations on AI/ML projects and innovative technical solutions.*
+<img src="https://dipan2004.goatcounter.com/count?p=/github-profile" alt="GoatCounter" width="1" height="1">
+

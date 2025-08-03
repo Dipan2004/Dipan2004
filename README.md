@@ -1,7 +1,6 @@
 # Dipan Giri
 
 
-
 ## About
 I'm an AI/ML engineer focused on building intelligent systems and automation tools. My work spans from deep learning models for computer vision to voice-controlled desktop applications, with a particular interest in practical AI implementations.
 

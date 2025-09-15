@@ -6,7 +6,7 @@ I'm an AI/ML engineer focused on building intelligent systems and automation too
 
 Currently exploring advanced neural architectures and their applications in real-world problem solving.
 
-## Technical Skills
+## Technical Skills 
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

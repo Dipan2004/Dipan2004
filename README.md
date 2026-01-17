@@ -43,18 +43,7 @@ Deep learning system for handwritten mathematical expression recognition. Featur
 
 [View Repository →](https://github.com/Dipan2004/MathInk-AI)
 
-## GitHub Analytics
 
-<details>
-<summary>▶ github stats</summary>
-<br>
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dipan2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipan2004&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-</details>
 
 ## Contact
 
